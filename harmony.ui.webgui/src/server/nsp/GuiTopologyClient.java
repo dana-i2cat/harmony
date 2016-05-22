@@ -37,7 +37,7 @@ import org.apache.muse.ws.addressing.EndpointReference;
 
 import server.common.MethodReflectionCache;
 import server.common.NspConverter;
-import eu.ist_phosphorus.harmony.common.serviceinterface.topology.SimpleTopologyClient;
+import org.opennaas.extensions.idb.serviceinterface.topology.SimpleTopologyClient;
 
 /**
  * @author gassen
